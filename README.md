@@ -18,5 +18,3 @@ No complex steps—just one click, and you're good to go!
 🚫 No bloat, no extra steps
 </li>
 </ul>
-
-- Sahm The Developer
